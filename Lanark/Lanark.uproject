@@ -1,6 +1,10 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{3B597D8B-4A2E-44C8-B204-809D9C53C9B8}",
+<<<<<<< HEAD
+	"EngineAssociation": "4.21",
+=======
+	"EngineAssociation": "{4D1B16D9-4D3B-12D4-678A-3F9EB35EDA6A}",
+>>>>>>> 368988c410e84876cd208169f87151e4a3e3c92f
 	"Category": "",
 	"Description": "",
 	"Enterprise": true
